@@ -5,5 +5,5 @@
 Visita mi web Albertbenavent.com para ver mi portafolios y la pwa de su interior:
 
 <div>
-<img src="https://i.ibb.co/PTM1B2r/Captura-App.jpg" >
+<img src="http://www.google.com.au/images/nav_logo7.png" width="200" height="300" >
 </div>

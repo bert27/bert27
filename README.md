@@ -1,7 +1,7 @@
-#  Hola, me gusta hacer apps e inventar cosas al más puro estilo maker👋
-####  👨‍💻 Mis habilidades son react / Mern, el diseño responsive y la robótica. 🤖
+#  Hello, I like to make apps and invent things in the purest maker style👋
+####  👨‍💻 My skills are React / Mern, Responsive Design and Robotics. 🤖
 
 
-Visita mi web Albertbenavent.com para ver mi portafolios y la pwa de su interior:
+Visit my website Albertbenavent.com to see my portfolio and the pwa inside:
 
 

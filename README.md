@@ -3,3 +3,7 @@
 
 
 Visita mi web Albertbenavent.com para ver mi portafolios y la pwa de su interior:
+
+<div>
+<img src="https://i.ibb.co/PTM1B2r/Captura-App.jpg" >
+</div>

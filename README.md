@@ -1,11 +1,9 @@
-#  Hello, I like to make apps and invent things in the purest maker style👋
-####  👨‍💻 My skills are React / Mern, Responsive Design and Robotics. 🤖
+#  Hello  **<a href="https://github.com/Bert27" title="Profile">I'm Albert</a>**, I like to make apps and invent things in the purest maker style👋
+####  👨‍💻 My skills are <a href="https://github.com/Bert27" title="Profile">React / Mern, Responsive Design and Robotics. </a>🤖
 
 
 Visit my website Albertbenavent.com to see my portfolio and the pwa inside:
 
-
-  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bert27&show_icons=true&theme=react" width="360" />
 </a>

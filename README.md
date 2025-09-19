@@ -1,5 +1,5 @@
 #  Hello  **<a href="https://github.com/Bert27" title="Profile">I'm Albert</a>**, I like to make apps and invent things in the purest maker style👋
-####  👨‍💻 My skills are <a href="https://github.com/Bert27" title="Profile">React / Mern, Responsive Design and Robotics. </a>🤖
+####  👨‍💻 My skills are <a href="https://github.com/Bert27" title="Profile">React / Nextjs / Node / Mern, Responsive Design and Robotics. </a>🤖
 
 
 Visit my website Albertbenavent.com to see my portfolio and the pwa inside:

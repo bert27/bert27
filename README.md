@@ -32,8 +32,4 @@ Check out my latest projects and PWAs at:
   </a>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bert27&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
-
 </div>

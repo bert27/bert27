@@ -23,13 +23,5 @@ Check out my latest projects and PWAs at:
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Bert27">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=bert27&show_icons=true&theme=react&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/Bert27">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bert27&layout=compact&theme=react&hide_border=true" width="40%" />
-  </a>
-</div>
 
 </div>

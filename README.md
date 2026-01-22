@@ -1,27 +1,33 @@
 <div align="center">
 
-# Hi there, I'm Albert! 👋
-### Full Stack Developer | Maker | Robotics Enthusiast
+# Bert 👋
+### Full Stack Developer | Hardware Enthusiast | Creative Coder
 
-I turn coffee into code and ideas into reality. I specialize in building apps with the **MERN Stack** and inventing things in the purest maker style.
+[![Portfolio](https://img.shields.io/badge/Portfolio-albertbenavent.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://albertbenavent.com/portafolio/pagina1)
+[![GitHub](https://img.shields.io/badge/GitHub-bert27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bert27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-benavent-cabrera/)
 
----
-
-### 🛠️ Tech Stack & Tools
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Robotics](https://img.shields.io/badge/-Robotics-FF5722?style=for-the-badge&logo=arduino&logoColor=white)
+<br/>
 
 ---
 
-### 🌐 Portfolio
-Check out my latest projects and PWAs at:
-## [🚀 Albertbenavent.com](https://albertbenavent.com)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-FF4B11?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,html,css,vite,git,cpp,arduino,vscode,mongodb,nextjs" />
+  </a>
+</p>
 
 ---
-
 
 </div>
+
+
